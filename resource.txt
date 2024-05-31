@@ -1,1 +1,14 @@
 https://react.dev/learn
+https://www.w3schools.com/react/
+
+
+https://github.com/Anshul905/react
+https://github.com/acdlite/react-fiber-architecture
+
+
+https://tailwindcss.com/docs/guides/vite
+https://www.pexels.com/search/people/
+https://www.devui.io/components/cards
+
+
+https://hashnode.com/
