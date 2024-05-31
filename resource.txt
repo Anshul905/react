@@ -6,9 +6,36 @@ https://github.com/Anshul905/react
 https://github.com/acdlite/react-fiber-architecture
 
 
+https://vitejs.dev/guide/
 https://tailwindcss.com/docs/guides/vite
+
+
 https://www.pexels.com/search/people/
 https://www.devui.io/components/cards
 
 
 https://hashnode.com/
+
+
+###################################################
+create react + vite project 
+###################################################
+
+npm create vite@latest
+√ Project name: ... 04bgchanger
+√ Select a framework: » React
+√ Select a variant: » JavaScript
+
+cd 04bgchanger
+npm install 
+
+https://tailwindcss.com/docs/guides/vite
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+replace the content 
+add 3 lines 
+
+npm run dev 
+
+
